@@ -6,7 +6,7 @@ html {
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     overflow: hidden;
-    background: #79c7a2 url("../img/bg.jpg") no-repeat center center fixed;
+    background: #69a6af url("../img/bg.jpg") no-repeat center center fixed;
     background-size: cover;
     position: fixed;
     padding: 0px;
@@ -54,7 +54,7 @@ html {
   }
   
   .profile-card {
-    background: #79c7a2;
+    background: #69a6af;
     width: 56px;
     height: 56px;
     position: absolute;
@@ -309,7 +309,7 @@ html {
   
   @keyframes moveUp {
     0% {
-      background:#79c7a2
+      background:#69a6af
       top: 100%;
     }
     50% {
