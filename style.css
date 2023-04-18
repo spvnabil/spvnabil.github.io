@@ -6,7 +6,7 @@ html {
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     overflow: hidden;
-    background: #69a6af url("../img/bg.jpg") no-repeat center center fixed;
+    background: #be8dff url("../img/bg.jpg") no-repeat center center fixed;
     background-size: cover;
     position: fixed;
     padding: 0px;
@@ -54,7 +54,7 @@ html {
   }
   
   .profile-card {
-    background: #69a6af;
+    background: #be8dff;
     width: 56px;
     height: 56px;
     position: absolute;
