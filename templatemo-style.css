@@ -358,7 +358,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/sunset.jpg') no-repeat;
+  background: url('sunset.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -385,7 +385,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/home-img4.jpg') no-repeat;
+    background: url('home-img4.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -443,7 +443,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/home-img5.jpg') no-repeat;
+  background: url('home-img5.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -470,7 +470,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/home-img4.jpg') no-repeat;
+  background: url('home-img4.jpg') no-repeat;
 }
 
 #education .media-heading {
@@ -495,7 +495,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/home-img6.jpg') 50% 0 repeat-y fixed;
+    background: url('home-img6.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -539,7 +539,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/home-img2.jpg') no-repeat;
+  background: url('home-img2.jpg') no-repeat;
   min-height: 75vh;
 }
 
